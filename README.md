@@ -1,6 +1,6 @@
 Necesitaremos una cuenta de Github 
-Una cuenta en Render (https://render.com).
- crear el repositorio en GitHub
+Una cuenta en Render 
+crear el repositorio en GitHub
 Entra a tu cuenta de GitHub.
 Crea un nuevo repositorio 
 Dentro de ese repositorio, guarda o sube los siguientes elementos:
