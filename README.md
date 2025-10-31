@@ -21,4 +21,3 @@ Nombre del servicio
 Comando de inicio: aquí Render necesita saber cómo arrancar Odoo.
  Render construirá el sistema y lo pondrá en marcha.
 Después de unos minutos, Render te mostrará una URL pública, Al entrar ahí, verás la pantalla inicial de Odoo.
-
